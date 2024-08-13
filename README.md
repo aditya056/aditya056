@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **.Net, C #, Azure **
+- 🌱 I’m currently learning **.Net, C #, Azure**
 
 - 📫 How to reach me **adityakoganti18@gmail.com**
 - ⚡ Fun fact **I am Funny**
